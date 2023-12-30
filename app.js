@@ -1,4 +1,4 @@
 function greet() {
-    let greeting = "Welcome"
-    console.log(greeting)
+    let greeting = "Welcome";
+    console.log(greeting);
 }
